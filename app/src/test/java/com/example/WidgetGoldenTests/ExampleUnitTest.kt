@@ -1,4 +1,4 @@
-package com.example.rizo_post2_u9
+package com.example.WidgetGoldenTests
 
 import org.junit.Test
 

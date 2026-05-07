@@ -22,6 +22,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "rizo_post2_u9"
+rootProject.name = "WidgetGoldenTests"
 include(":app")
  
