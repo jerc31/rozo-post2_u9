@@ -1,0 +1,22 @@
+name: rizo_post2_u9
+description: Actividad de la Unidad 9 Post-Contenido 2 - Miguel Angel Rizo Arias.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^8.1.4
+  equatable: ^2.0.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  mocktail: ^1.0.3
+  bloc_test: ^9.1.7
+
+flutter:
+  uses-material-design: true
